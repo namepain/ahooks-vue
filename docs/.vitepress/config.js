@@ -6,7 +6,7 @@ const base = process.env.NODE_ENV === 'production' ? '/ahooks-vue' : '';
 
 module.exports = {
   title: 'wehooks-vue',
-  description: 'vue hooks',
+  description: 'vue3 hooks',
   alias: {
     'ahooks-vue': resolve('./src/'),
   },
